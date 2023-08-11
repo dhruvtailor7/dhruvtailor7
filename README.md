@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am Dhruv Tailor
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvtailor7&show_icons=true&theme=prussian" alt="dhruvtailor7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dhruvtailor7&theme=prussian&date_format=M%20j%5B%2C%20Y%5D" alt="dhruvtailor7" /></p>
+
+
+[![An image of @dhruvtailor7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruvtailor7)](https://holopin.io/@dhruvtailor7)
+
 <!--
 **dhruvtailor7/dhruvtailor7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
