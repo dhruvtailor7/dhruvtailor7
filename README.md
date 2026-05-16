@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dhruvtailor7.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhruvtailor7.vercel.app)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-tailor-3b0164171/)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=dhruvtailor7&style=for-the-badge&color=0e75b6)
 
