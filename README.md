@@ -1,24 +1,64 @@
-### Hi there 👋
+<div>
 
-I am Dhruv Tailor
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvtailor7&show_icons=true&theme=prussian" alt="dhruvtailor7" /></p>
+# Hey, I'm Dhruv Tailor 👋
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dhruvtailor7&theme=prussian&date_format=M%20j%5B%2C%20Y%5D" alt="dhruvtailor7" /></p>
+**Senior Software Engineer** · Backend & Mobile · Surat, India
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-dhruvtailor7.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhruvtailor7.vercel.app)
 
-[![An image of @dhruvtailor7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruvtailor7)](https://holopin.io/@dhruvtailor7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 
-<!--
-**dhruvtailor7/dhruvtailor7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitor Count](https://komarev.com/ghpvc/?username=dhruvtailor7&style=for-the-badge&color=0e75b6)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 About Me
+
+- 🏢 Senior Software Engineer at **[@TrueSparrowSystems](https://github.com/TrueSparrowSystems)**
+- 🔧 I build **backend APIs**, **cloud infrastructure**, and **React Native** apps
+- 🧠 Solved **500+ problems** on LeetCode
+- 📍 Based in **Surat, Gujarat, India**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Mobile**
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+**Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhruvtailor7&theme=prussian&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏅 Holopin Badges
+
+[![Holopin badges](https://holopin.me/dhruvtailor7)](https://holopin.io/@dhruvtailor7)
+
